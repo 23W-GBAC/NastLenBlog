@@ -1,3 +1,3 @@
 # Data Quality in Healthcare
 
-My name is Anastasiia Bulatkina. I think the biggest obstacle to AI in Healthcare is a lack of data quality. Follow my Blog!
+My name is Anastasiia Bulatkina. I'm pretty sure you're craving to know what are the most significant Medical Breakthroughs in 2023. Follow my Blog!
