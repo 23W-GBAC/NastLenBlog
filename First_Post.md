@@ -1,12 +1,17 @@
 # Exploring Why Some Animals Win Our Hearts and Others Pose a Challenge
 
-I always wondered why we, humans - animals from a biological prospective - can get along with some specific types of animals, such as cats, dogs, turtles, bunnies, etc., and at the same time not be able to endure a second in a calm vibe with others (e.g foxes and wolves, which are related to members of the Canidae family as well as our all familiar household dogs)? 
+## I always wondered why we, humans - animals from a biological prospective - can get along with some specific types of animals, such as cats, dogs, turtles, bunnies, etc., and at the same time not be able to endure a second in a calm vibe with others (e.g foxes and wolves, which are related to members of the Canidae family as well as our all familiar household dogs)? 
 
-Perhaps there exists an unnoticed similarity between us and our beloved pets? Which factors have mostly influenced our connection?
+**Perhaps there exists an unnoticed similarity between us and our beloved pets? Which factors have mostly influenced our connection?**
 
 In order to get some clear guesses on these questions, we need to take a look at human’s historical interaction with certain types of animals. 
 
-The first and major aspect is domestication. Throughout human history, people tried to selectively breed and genetically adapt several kinds of species. This process has become successful with particular living creatures. According to the article in National Geographic, humans have managed to develop three major domesticating groups: companionship (dogs and cats), animals farmed for food (sheep, cows, ducks, etc.), and working on draft animals (horses, donkeys, camels). Such facts as [“Near Eastern and Egyptian populations of Felis silvestris lybica contributed to the gene pool of the domestic cat at different historical times”](https://www.nature.com/articles/s41559-017-0139.epdf?sharing_token=a-9BmmTKbme_7rk_Wb7KJdRgN0jAjWel9jnR3ZoTv0P1-hlCK4xw03Oq1bTQkuMRxu0CVri32-8BYKho-FYR13zfxre5GLJcd4_0LmLN4VEXjB6NSx3DrZ2P--bES4XzdX8f6vgAk7S5GxG11GPRIW5F1R-kzl0blu7b5vt-r5ECqD2WOxdtIzAp4RtzruH8MGYQn91anq5PrjerVMabheRp2DZB4UaCVFdollXT9Hk%3D&tracking_referrer=www.nationalgeographic.com) were truly recorded. It makes us reflect on evolutionary developed connections related to these groups of domestication.
+The first and major aspect is domestication. Throughout human history, people tried to selectively breed and genetically adapt several kinds of species. This process has become successful with particular living creatures. 
+According to the article in National Geographic, humans have managed to develop three major domesticating groups: 
++ companionship (dogs and cats)
++ animals farmed for food (sheep, cows, ducks, etc.)
++ working on draft animals (horses, donkeys, camels). Such facts as [“Near Eastern and Egyptian populations of Felis silvestris lybica contributed to the gene pool of the domestic cat at different historical times”](https://www.nature.com/articles/s41559-017-0139.epdf?sharing_token=a-9BmmTKbme_7rk_Wb7KJdRgN0jAjWel9jnR3ZoTv0P1-hlCK4xw03Oq1bTQkuMRxu0CVri32-8BYKho-FYR13zfxre5GLJcd4_0LmLN4VEXjB6NSx3DrZ2P--bES4XzdX8f6vgAk7S5GxG11GPRIW5F1R-kzl0blu7b5vt-r5ECqD2WOxdtIzAp4RtzruH8MGYQn91anq5PrjerVMabheRp2DZB4UaCVFdollXT9Hk%3D&tracking_referrer=www.nationalgeographic.com) were truly recorded. It makes us reflect on evolutionary developed connections related to these groups of domestication.
+
 
 The scientists separate the concept of domestication from the principle of taming. Taming is generally not evolutionary and refers to the process of adaptation of individual living organisms to specific human conditions. The major aim of taming is to create for some individuals of the species more comfortable and interconnection with humans. 
 
