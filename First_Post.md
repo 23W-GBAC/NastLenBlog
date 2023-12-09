@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Exploring Why Some Animals Win Our Hearts
 ---
 
 # Exploring Why Some Animals Win Our Hearts and Others Pose a Challenge
