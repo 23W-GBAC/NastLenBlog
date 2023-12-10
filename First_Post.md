@@ -1,8 +1,3 @@
----
-layout: post
-title: Exploring Why Some Animals Win Our Hearts
----
-
 # Exploring Why Some Animals Win Our Hearts and Others Pose a Challenge
 
 ## I always wondered why we, humans - animals from a biological prospective - can get along with some specific types of animals, such as cats, dogs, turtles, bunnies, etc., and at the same time not be able to endure a second in a calm vibe with others (e.g foxes and wolves, which are related to members of the Canidae family as well as our all familiar household dogs)? 
