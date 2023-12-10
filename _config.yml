@@ -1,7 +1,4 @@
 remote_theme: jekull-theme-minimal
 title: Paws and Claws
 description: Everything about Animals
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:name
+
