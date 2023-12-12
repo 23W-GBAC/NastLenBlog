@@ -2,8 +2,8 @@
   <h1>Welcome to my Blog</h1>
 
   <section class="general-info">
-    <h2>General Information</h2>
-    <p>Your general information goes here.</p>
+    <h2>The Anastasiia Blog: "Paws and Claws - Everything about animals</h2>
+    <p>Information</p>
   </section>
 
   <section class="latest-posts">
