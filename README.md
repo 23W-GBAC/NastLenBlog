@@ -2,7 +2,7 @@
   <h1>Welcome to my Blog</h1>
 
   <section class="general-info">
-    <h2>The Anastasiia Blog: "Paws and Claws - Everything about animals</h2>
+    <h2>The Anastasiia Blog: "Paws and Claws - Everything about animals"</h2>
     <p>Information</p>
   </section>
 
