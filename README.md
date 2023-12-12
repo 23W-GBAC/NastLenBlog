@@ -3,7 +3,7 @@
   
   <section class="general-info">
     <h2>The Anastasiia Blog: "Paws and Claws - Everything about animals"</h2>
-    <p>Information</p>
+    <p>General Information</p>
   </section>
 
   <section class="latest-posts">
