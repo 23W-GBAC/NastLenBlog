@@ -21,19 +21,8 @@ jobs:
     - name: Install Dependencies
       run: pip install -r requirements.txt
 
-    - name: Generate Facts
-      run: python generate_facts_about_animals.py
-
-    - name: Replace Placeholders
-      run: python replace_placeholders.py
-
-    - name: Commit Changes
+    - name: Generate and Replace Facts
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -am "Update animal facts [skip ci]"
+        python generate_facts_about_animals.py
+        python replace_placeholders.py
 
-    - name: Push Changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
