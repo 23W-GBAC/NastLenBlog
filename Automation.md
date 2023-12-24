@@ -6,7 +6,7 @@ That's how the idea of auto-generator of interesting facts has come to my mind. 
 
 
 Goals I've set:
-    -[] Find a suitable website containing facts about animals
-    -[] Read the necessary data from this site
-    -[] Organize the facts in a form of un (unordered list)
-    -[] Insert one random fact into each post (starting from the second one)
+    - [ ] Find a suitable website containing facts about animals
+    - [ ] Read the necessary data from this site
+    - [ ] Organize the facts in a form of un (unordered list)
+    - [ ] Insert one random fact into each post (starting from the second one)
