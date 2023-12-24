@@ -33,3 +33,9 @@ jobs:
         git add .
         git commit -m "Update animal facts [skip ci]"
         git push
+    - name: Generate and Replace Facts
+  run: |
+    python generate_facts_about_animals.py
+    python replace_placeholders.py
+    ls -l  # Add this line to list files in the current directory for debugging
+
