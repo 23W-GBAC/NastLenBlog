@@ -13,6 +13,6 @@ def replace_fact_placeholder(file_path):
         file.write(updated_content)
 
 if __name__ == "__main__":
-    replace_fact_placeholder("https://23w-gbac.github.io/NastLenBlog/Second_Post")
+    replace_fact_placeholder("https://raw.githubusercontent.com/23W-GBAC/NastLenBlog/main/Second_Post.md")
     replace_fact_placeholder("third.md")
     replace_fact_placeholder("fourth.md")
