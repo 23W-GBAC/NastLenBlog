@@ -1,1 +1,1 @@
-Did you know? **Almost half the pigs in the world are kept by farmers in China.**
+Did you know? **The turkey is one of the most famous birds in North America.**
