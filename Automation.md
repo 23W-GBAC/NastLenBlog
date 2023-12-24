@@ -4,9 +4,9 @@ While I was writing my first post about [*human interaction with animals*](https
 
 That's how the idea of auto-generator of interesting facts has come to my mind. Here I'm gonna show you how I implemented this.
 
+#### Goals I've set
 
-Goals I've set:
-    - [ ] Find a suitable website containing facts about animals
-    - [ ] Read the necessary data from this site
-    - [ ] Organize the facts in a form of un (unordered list)
-    - [ ] Insert one random fact into each post (starting from the second one)
+- [ ] Find a suitable website containing facts about animals
+- [ ] Read the necessary data from this site
+- [ ] Organize the facts in the form of an unordered list
+- [ ] Insert one random fact into each post (starting from the second one)
