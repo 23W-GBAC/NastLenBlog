@@ -1,18 +1,20 @@
 # replace_placeholders.py
 from generate_facts_about_animals import generate_random_animal_fact
 
-def replace_fact_placeholder(file_path):
+def replace_fact_placeholder(file_url):
     random_fact = generate_random_animal_fact()
 
-    with open(file_path, "r", encoding="utf-8") as file:
-        content = file.read()
+    response = requests.get(file_url)
 
-    updated_content = content.replace("[Random Animal Fact]", random_fact)
+    if response.status_code == 200:
+        content = response.text
 
-    with open(file_path, "w", encoding="utf-8") as file:
-        file.write(updated_content)
+        updated_content = content.replace("[Random Animal Fact]", random_fact)
 
-if __name__ == "__main__":
-    replace_fact_placeholder("https://raw.githubusercontent.com/23W-GBAC/NastLenBlog/main/Second_Post.md")
-    replace_fact_placeholder("third.md")
-    replace_fact_placeholder("fourth.md")
+        with open("output.md", "w", encoding="utf-8") as file:
+            file.write(updated_content)
+
+        print("Updated content:")
+        print(updated_content)
+    else:
+        print(f"Failed to retrieve content from {file_url}")
