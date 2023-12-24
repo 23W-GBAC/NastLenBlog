@@ -1,20 +1,24 @@
 # replace_placeholders.py
+import requests
 from generate_facts_about_animals import generate_random_animal_fact
 
-def replace_fact_placeholder(file_url):
+def replace_fact_placeholder(file_names):
     random_fact = generate_random_animal_fact()
+    data = []
+    for file_name in file_names:
 
-    response = requests.get(file_url)
+        with open(file_names, "rt", encoding="utf-8") as file:
+            for line in file:
+                if "Did you know? **" in line:
+                    data.append(f"Did you know? **{random_fact}**\n")
+                else:
+                    data.append(line)
 
-    if response.status_code == 200:
-        content = response.text
-
-        updated_content = content.replace("[Random Animal Fact]", random_fact)
-
-        with open("output.md", "w", encoding="utf-8") as file:
-            file.write(updated_content)
+        with open(file_names, "wt", encoding="utf-8") as file:
+            file.writelines(data)
 
         print("Updated content:")
-        print(updated_content)
-    else:
-        print(f"Failed to retrieve content from {file_url}")
+        print(random_fact)
+    
+if __name__ == '__main__':
+    replace_fact_placeholder(['Second_Post.md', 'Third_Post.md', 'Fourth_Post.md'])
