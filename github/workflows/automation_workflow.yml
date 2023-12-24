@@ -26,3 +26,10 @@ jobs:
         python generate_facts_about_animals.py
         python replace_placeholders.py
 
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update animal facts [skip ci]"
+        git push
