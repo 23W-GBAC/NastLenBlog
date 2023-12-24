@@ -1,1 +1,1 @@
-Did you know? **The turkey is one of the most famous birds in North America.**
+Did you know? **Turtles, water snakes, crocodiles, alligators, dolphins, whales, and other water going creatures will drown if kept underwater too long.**

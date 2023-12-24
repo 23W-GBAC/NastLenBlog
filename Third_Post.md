@@ -1,3 +1,2 @@
-Did you know? **The turkey is one of the most famous birds in North America.**
-Did you know? **If you lift a kangaroo’s tail off the ground it can’t hop – they use their tails for balance.**
-Did you know? **If you lift a kangaroo’s tail off the ground it can’t hop – they use their tails for balance.**
+Did you know? **The only mammals to undergo menopause are elephants, humpback whales and human females.**
+
