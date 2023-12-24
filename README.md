@@ -14,8 +14,8 @@
     <ul>
       <li><a href="https://23w-gbac.github.io/NastLenBlog/First_Post">First Post</a></li>
       <li><a href="Second_Post.md">Second Post</a></li>
-      <li><a href="./third_post">Third Post</a></li>
-      <li><a href="./fourth_post">Fourth Post</a></li>
+      <li><a href="Third_Post.md">Third Post</a></li>
+      <li><a href="Fourth_Post.md">Fourth Post</a></li>
     </ul>
   </section>
   
