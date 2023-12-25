@@ -1,6 +1,6 @@
 <div class="home">
   <h1>The Anastasiia Blog: "Paws and Claws - Everything about animals</h1>
-  ![Greetings](https://giphy.com/embed/bcKmIWkUMCjVm)
+  <div class="tenor-gif-embed" data-postid="12463296" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/fox-animals-cute-animals-gif-12463296">Fox Animals GIF</a>from <a href="https://tenor.com/search/fox-gifs">Fox GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <section class="general-info">
     <h2>What is my blog about?</h2>
       Oh, these lovely creatures (but sometimes the naughty ones). Why do we, humans, love them so much? Well, it’s all about our psychology. Pets create perfect companionship for humans
