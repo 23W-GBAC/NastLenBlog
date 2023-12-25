@@ -6,7 +6,15 @@ Did you know? **Turtles, water snakes, crocodiles, alligators, dolphins, whales,
 
 ## As you can already notice, this question has always been tricky and worried many philosophers, scientists, researches, and ordinary people. This relates not only to creatures, but also to human beings. What does science say about this? What evidence we’ve got?
 
-### Are we able to look into the mysterious, peculiar pet’s world? <img width="150" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExand3dTk5eHJoOWwyeGpxZnlhYXBmbHJjMmNoNDgzY2FwNDBsNXVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7jnnsNcBbTtS78L9/giphy.gif">
+<!-- ### Are we able to look into the mysterious, peculiar pet’s world? <img width="150" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExand3dTk5eHJoOWwyeGpxZnlhYXBmbHJjMmNoNDgzY2FwNDBsNXVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7jnnsNcBbTtS78L9/giphy.gif"> -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>Are we able to look into the mysterious, peculiar pet’s world?</h3>
+  </div>
+  <div style="flex: 1;">
+    <img width="150" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExand3dTk5eHJoOWwyeGpxZnlhYXBmbHJjMmNoNDgzY2FwNDBsNXVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7jnnsNcBbTtS78L9/giphy.gif">
+  </div>
+</div>
 
 The investigation of this subject had led to various findings that greatly contribute to our understanding of animal cognition and communication.
 
