@@ -19,5 +19,9 @@
     </ul>
   </section>
   
+  <section class="Automation">
+    <h2>Automation Part</h2>
+    <a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Automation</a>
+  </section>
 </div>
 
