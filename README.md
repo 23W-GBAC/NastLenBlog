@@ -1,6 +1,8 @@
 <div class="home">
   <h1>The Anastasiia Blog: "Paws and Claws - Everything about animals</h1>
-  ![Greetings](http://lrvin.tumblr.com/post/53173064277)
+  
+  <img width=“300” alt=“gifka” src=“https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm”>
+  
   <section class="general-info">
     <h2>What is my blog about?</h2>
       Oh, these lovely creatures (but sometimes the naughty ones). Why do we, humans, love them so much? Well, it’s all about our psychology. Pets create perfect companionship for humans
