@@ -32,14 +32,7 @@ On top of that, the scientists have examined particular neurobiological structur
 What about memory? Behavioral studies have provided valuable insights into animal communication and expression. It has been discovered that dolphins, for example, are able to keep lifelong social memories ever recorded for a non-human species.[news.uchicago](https://news.uchicago.edu/story/dolphins-keep-lifelong-social-memories-longest-non-human-species). It is a critical indication showing that dolphins have a level of cognitive sophistication comparable to only a few other species, including humans, chimpanzees and elephants. Dolphins’ talent for social recognition may be even more long-lasting than facial recognition among humans, since human faces change over time, but the signature whistle that identifies a dolphin remains stable over many decades.
 <hr>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-
-   Birds have an incredible form of [bird communication](https://www.wildernesscollege.com/bird-communication.html#:~:text=The%20voice%20is%20often%20the,many%20other%20sorts%20of%20sounds.). Bird communication using sound includes singing, calls, squeaks, squawks, gurgles, warbles, trills, rattles, gulps, pops, whines, clicks, croaks, drums, whistles, howls, tremolos, thumps, honks and many other sorts of sounds.
-
-   <img width="125" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNldGYwbmhlaW55dHhjZ2UyYXU/giphy.gif" style="margin-left: auto;" />
-
-</div>
-
+Birds have an incredible form of [bird communication](https://www.wildernesscollege.com/bird-communication.html#:~:text=The%20voice%20is%20often%20the,many%20other%20sorts%20of%20sounds.). Bird communication using sound includes singing, calls, squeaks, squawks, gurgles, warbles, trills, rattles, gulps, pops, whines, clicks, croaks, drums, whistles, howls, tremolos, thumps, honks and many other sorts of sounds. <img width="125" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNldGYwbmhlaW55dHhjZ2UyYXV3Z2c5Y2NqMnUydXNjYXM3cHliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIJP1LCAtxzuCvmvIa/giphy.gif" allign="right">
 
 Parrots, songbirds and hummingbirds all learn [new vocalizations](https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/). The calls and songs of some species in these groups appear to have even more in common with human language, such as conveying information intentionally and using simple forms of some of the elements of human language such as phonology, semantics and syntax. And the similarities run deeper, including analogous brain structures that are not shared by species without vocal learning.
 
