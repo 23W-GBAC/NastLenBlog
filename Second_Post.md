@@ -44,3 +44,6 @@ Further, a company is developing a program using AI analysis software along with
 The same technology is also being used to translate the sounds of other animals. Sounds made by animals have different patterns and intonations tied to different concepts and words. Scientists feed these to a computer that maps out their meaning and context. So far, the program has recorded with refinement, distinguishing hundreds of different gibbon calls.
 
 For sure, there are a lot of serious chalenges in interpreting animal behavior and the limitations of our current scientific methodologies. The research will be continued for a long time, and we will learn more and more exciting cognitive facts of the creatures we share our planet with. The sky is the limit. 
+
+
+<img width="250" alt="gifka" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5qN2VqdmNkY284dmNlM3BncnMyM2w2eGlhZ2w2ZXhodHV2eGljcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CZFsm77WvyQuc/giphy.gif" allign="right">
