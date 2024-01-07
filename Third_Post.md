@@ -1,8 +1,8 @@
 Did you know? **The only mammals to undergo menopause are elephants, humpback whales and human females.**
 
 <hr>
-<h4>As I mentioned in the beginning of our journey through intriguing topics about our beloved creatures, I began writing this blog not exactly for entertainment, but for a particular objective.
-I want to share the sad, but rather instructive story with you which is described from my personal experience.</h4>
+<h2>As I mentioned in the beginning of our journey through intriguing topics about our beloved creatures, I began writing this blog not exactly for entertainment, but for a particular objective.
+I want to share the sad, but rather instructive story with you which is described from my personal experience.</h2>
 
 <!-- ![Marquis](images_of_animals/72624bed05980839ab5831e77b30d4bf84fbbb36819b1bfe5cc312cf973e916d.png) -->
 <img src="images_of_animals/DSC03001.JPG" width="400">
