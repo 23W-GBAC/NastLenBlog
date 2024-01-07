@@ -14,7 +14,7 @@
     <h2>Latest Posts</h2>
     <ul>
       <li><a href="https://23w-gbac.github.io/NastLenBlog/First_Post">Exploring Why Some Animals Win Our Hearts and Others Pose a Challenge </a></li>
-      <li><a href="https://23w-gbac.github.io/NastLenBlog/Second_Post">The Ability of Understanding How Animals Think 🐼🧠</a></li>
+      <li><a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Second_Post.md">The Ability of Understanding How Animals Think 🐼🧠</a></li>
       <li><a href="Third_Post.md">A Chronicle of Love and Loss</a></li>
       <li><a href="Fourth_Post.md">Fourth Post</a></li>
     </ul>
