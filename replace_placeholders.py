@@ -21,6 +21,7 @@ def replace_fact_placeholder(file_names):
         print("Updated content:")
         print(random_fact)
         data.clear()
+        print('Hello world')
     
 if __name__ == '__main__':
     replace_fact_placeholder(['Second_Post.md', 'Third_Post.md', 'Fourth_Post.md'])
