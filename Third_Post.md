@@ -8,7 +8,7 @@ I want to share the sad, but rather instructive story with you which is describe
 <img src="images_of_animals/DSC03001.JPG" width="400">
 
 
-This is my cat Marquis. A kind, calm, and docile British breed cat. Frankly speaking, he was like “the angel in the flash” who doesn’t appreciate making any kind of noise, or trying to bother someone. He was even a little distant. In a nutshell, it was a surprisingly rare animal.
+This is my cat Marquis. A kind, calm, and docile British breed cat with enchanting amber eyes. Frankly speaking, he was like “the angel in the flash” who doesn’t appreciate making any kind of noise or trying to bother someone. He was even a little distant. In a nutshell, it was a surprisingly rare animal.
 
 Marquis started to get sick when I was a teenager. At first, he developed [kidney stones](https://en.wikipedia.org/wiki/Kidney_stone_disease) that made him unable to sleep normally. He was still young enough to take on different types of diseases. After a while, things were only getting worse.
 I was the first to notice that Marquis had started to limp. I was very concerned about this, and we tried to treat him in every possible way - pills, powders, injections. We thought osteoarthritis or the heart pain were the main causes of this. The diagnoses of many doctors showed this. Time passed, and nothing helped. 
