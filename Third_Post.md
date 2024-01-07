@@ -5,7 +5,7 @@ As I mentioned in the beginning of our journey through intriguing topics about o
 I want to share the sad, but rather instructive story with you which is described from my personal experience.
 
 <!-- ![Marquis](images_of_animals/72624bed05980839ab5831e77b30d4bf84fbbb36819b1bfe5cc312cf973e916d.png) -->
-<img src="images_of_animals/72624bed05980839ab5831e77b30d4bf84fbbb36819b1bfe5cc312cf973e916d.png" width="400">
+<img src="images_of_animals/DSC03001.JPG" width="400">
 
 
 This is my cat Marquis. A kind, calm, and docile British breed cat. Frankly speaking, he was like “the angel in the flash” who doesn’t appreciate making any kind of noise, or trying to bother someone. He was even a little distant. In a nutshell, it was a surprisingly rare animal.
