@@ -26,6 +26,8 @@ We didn’t want the Marquis to suffer from the remaining few days. Unfortunatel
 
 Obviously, this was a turning point for me, after which I decided to delve into this topic. Therefore I suggest you, based on my experience, to learn more about this possible disease that might affect animals. As we know, *“forewarned is forearmed”*
 
+
+<img src="images_of_animals/DSC02988.JPG" width="350">
 <hr>
 
 First and foremost, we need to understand that our pets mostly have the same types of cancer that usually affect people. The possible causes for this can be age, breed predisposition and cancer agents in our shared environment. Environmental pollutants, certain types of food, radiation - all of these same factors adversely contribute to high risks in the development of cancers in pets. 
