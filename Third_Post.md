@@ -25,3 +25,12 @@ I can’t remember what kind of shok I felt that time. I don’t know what I fel
 We didn’t want the Marquis to suffer from the remaining few days. Unfortunately, we had to put him down and it was a bitter loss for all of us. Of course, we loved him very much. Before encountering this problem with Marquis, I didn’t even know that **animals can have cancer**.
 
 Obviously, this was a turning point for me, after which I decided to delve into this topic. Therefore I suggest you, based on my experience, to learn more about this possible disease that might affect animals. As we know, *“forewarned is forearmed”*
+
+First and foremost, we need to understand that our pets mostly have the same types of cancer that usually affect people. The possible causes for this can be age, breed predisposition and cancer agents in our shared environment. Environmental pollutants, certain types of food, radiation - all of these same factors adversely contribute to high risks in the development of cancers in pets. 
+
+<h4>Recognised [carcinogenes](https://www.msdvetmanual.com/special-pet-topics/cancer-and-tumors/causes-of-cancer) play a direct role in onset of cancer in pets.</h4> These are:
+-ultrafiolet radiation from long exposure to the sun
+-second-hand tobacco smoke
+-a variety of herbicides, insecticides, and pesticides commonly used in agriculture
+-The air pollution and smog common in many urban areas. 
+-Nickel, uranium, benzidine, benzene, radon, vinyl chloride, cadmium, and asbestos are all common substances
