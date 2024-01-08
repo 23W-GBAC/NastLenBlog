@@ -30,7 +30,7 @@ Obviously, this was a turning point for me, after which I decided to delve into 
 
 First and foremost, we need to understand that our pets mostly have the same types of cancer that usually affect people. The possible causes for this can be age, breed predisposition and cancer agents in our shared environment. Environmental pollutants, certain types of food, radiation - all of these same factors adversely contribute to high risks in the development of cancers in pets. 
 
-<h4>Recognised [carcinogenes](https://www.msdvetmanual.com/special-pet-topics/cancer-and-tumors/causes-of-cancer) play a direct role in onset of cancer in pets.</h4> These are:
+Recognised **[carcinogenes](https://www.msdvetmanual.com/special-pet-topics/cancer-and-tumors/causes-of-cancer)** play a direct role in onset of cancer in pets. These are:
 + **Ultrafiolet radiation** from long exposure to the sun
 + **Second-hand tobacco** smoke
 + A variety of **herbicides, insecticides, and pesticides** commonly used in agriculture
