@@ -38,3 +38,11 @@ Recognised **[carcinogenes](https://www.msdvetmanual.com/special-pet-topics/canc
 + A variety of **herbicides, insecticides, and pesticides** commonly used in agriculture
 + **The air pollution and smog** common in many urban areas. 
 + **Nickel, uranium, benzidine, benzene, radon, vinyl chloride, cadmium, and asbestos** are all common substances
+
+According to some statistics made by veterinary researches, almoust all species of domestic animals develop squaomous skin [carcinoma](https://en.wikipedia.org/wiki/Carcinoma) - tumor that affects superficial skin cells. Moreover, it has been identified that white cats, white dogs, and horses with white facial markings are more likely to develop this particular tumor.
+
+Some cancerse in pets are associated with viruses. For instance, [feline leukemia virus is a common cause of death among cats](https://www.webmd.com/pets/cats/facts-about-feline-leukemia-virus), with up to 30% of persistently infected cats developing cancer. The feline leukemia virus commonly leads to conditions like anemia or lymphoma. Due to its ability to suppress the immune system, it can also predispose cats to deadly infections.
+
+However, encountering the feline leukemia virus doesn't necessarily mean a death sentence for cats. Approximately *70% of cats* exposed to the virus can resist infection or eliminate it on their own. In dogs, especially younger ones, a benign neoplasm forming warts (referred to as oral papillomas) in the mouth is caused by a virus.
+
+Besides, statistics appreciates the idea that [hereditary factor](https://wearethecure.org/blog/dog-breeds-prone-to-cancer/) is not less important in the occurence of cancer among pets. Among dogs, Golden Retrievers, Boxers, Bernese Mountain Dogs, Great Danes, and Rottweilers are generally more likely to develop cancer (and specific types of cancer) than other breeds.
