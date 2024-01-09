@@ -32,6 +32,17 @@ Obviously, this was a turning point for me, after which I decided to delve into 
 
 First and foremost, we need to understand that our pets mostly have the same types of cancer that usually affect people. The possible causes for this can be age, breed predisposition and cancer agents in our shared environment. Environmental pollutants, certain types of food, radiation - all of these same factors adversely contribute to high risks in the development of cancers in pets. 
 
+According to [the NCI’s Comparative Oncology Program](https://ccr.cancer.gov/comparative-oncology-program), the common cancer types that affect both humans and creatures include:
++ Non-Hodgkin lymphoma
++ Prostate cancer
++ Lung cancer
++ Head and neck cancer
++ Breast cancer
++ Melanoma
++ Soft tissue sarcoma
++ Osteosarcoma
+
+
 Recognised **[carcinogenes](https://www.msdvetmanual.com/special-pet-topics/cancer-and-tumors/causes-of-cancer)** play a direct role in onset of cancer in pets. These are:
 + **Ultrafiolet radiation** from long exposure to the sun
 + **Second-hand tobacco** smoke
