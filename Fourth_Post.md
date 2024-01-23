@@ -14,16 +14,16 @@ If we are responsible for those we have tamed, it’s in our hands to become sur
 
 Know Your Pet's Breed: Different dog and cat breeds can be prone to specific diseases, including cancer. Let’s look into the most suspectable breeds to cancer in dogs [Veterinary Referral Associates](https://www.vravet.com/site/blog/2022/03/31/which-dog-breeds-are-prone-to-developing-cancer):
 
-+ *Golden Retrievers*: <img width="150" alt="gifka" src="https://media.giphy.com/media/sjmetO8yUKb4c/giphy.gif">Face a higher risk of cancer, particularly aggressive types like lymphoma and hemangiosarcoma (cancer of the blood vessels). 
-+ *German Shepherds*<img width="70" alt="gifka" src="https://media.giphy.com/media/hpRhtwCmOolbMEgoQk/giphy.gif">: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
++ *Golden Retrievers* <img width="150" alt="gifka" src="https://media.giphy.com/media/sjmetO8yUKb4c/giphy.gif">: Face a higher risk of cancer, particularly aggressive types like lymphoma and hemangiosarcoma (cancer of the blood vessels). 
++ *German Shepherds* <img width="70" alt="gifka" src="https://media.giphy.com/media/hpRhtwCmOolbMEgoQk/giphy.gif">: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
 
-+ *Beagles*: are prone to recurrent urinary tract infections and have an increased risk of developing bladder cancer, especially if exposed frequently to lawn chemicals like pesticides and herbicides.
++ *Beagles* <img width="70" alt="gifka" src="https://media.giphy.com/media/fcBkaFZ5y2p1K/giphy.gifare">:  prone to recurrent urinary tract infections and have an increased risk of developing bladder cancer, especially if exposed frequently to lawn chemicals like pesticides and herbicides.
 
-+ *Bernese Mountain Dogs*: have a shorter lifespan and a higher risk of various cancers, including mast cell tumors and malignant histiocytosis (histiocytic sarcomas).
-+ *Rottweilers*: face an above-average risk of various cancers, such as soft tissue sarcomas, osteosarcoma (bone cancer), lymphoma, mast cell tumors, transitional cell carcinomas (bladder cancer), and hemangiosarcomas (cancer of the blood vessels).
-+ *Boxers*, loyal and affectionate family dogs, often grapple with mast cell tumors, slow-growing cancer commonly found on the skin.
++ *Bernese Mountain Dogs* <img width="70" alt="gifka" src="https://media.giphy.com/media/cIWnCzlygezrdLl1P3/giphy.gif">: have a shorter lifespan and a higher risk of various cancers, including mast cell tumors and malignant histiocytosis (histiocytic sarcomas).
++ *Rottweilers* <img width="70" alt="gifka" src="https://media.giphy.com/media/Im2DL7FSx7LXy/giphy.gif">: face an above-average risk of various cancers, such as soft tissue sarcomas, osteosarcoma (bone cancer), lymphoma, mast cell tumors, transitional cell carcinomas (bladder cancer), and hemangiosarcomas (cancer of the blood vessels).
++ *Boxers* <img width="70" alt="gifka" src="https://media.giphy.com/media/l0ExoOpQYXRtBsqxa/giphy.gif">, loyal and affectionate family dogs, often grapple with mast cell tumors, slow-growing cancer commonly found on the skin.
 
-+ *Great Danes*, characterized by their well-mannered nature and graceful appearance, make excellent family companions but have a relatively shorter lifespan of 7 to 10 years. Consequently, they are prone to various health conditions, including cancer, cardiomyopathy, and gastric torsion.
++ *Great Danes* <img width="70" alt="gifka" src="https://media.giphy.com/media/LjXVOmTvaWj8GWkfy8/giphy.gif">, characterized by their well-mannered nature and graceful appearance, make excellent family companions but have a relatively shorter lifespan of 7 to 10 years. Consequently, they are prone to various health conditions, including cancer, cardiomyopathy, and gastric torsion.
 
 
 3. **Regular Vet Checkups**: Just like people need regular checkups, so do pets. Yearly vet checkups help identify any health issues early on. It's crucial for a complete physical examination.
