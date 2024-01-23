@@ -9,7 +9,7 @@ If we are responsible for those we have tamed, it’s in our hands to become sur
 
 2. Watch your Pet’s Weight: Keeping your pet at a healthy weight is vital. Being overweighed is linked to a higher chance of cancer. Make sure your pet gets good food, and avoid feeding them an imbalanced diet.
 
-Know Your Pet's Breed: Different dog and cat breeds can be prone to specific diseases, including cancer. Let’s look into the most suspectable breeds to cancer in dogs (Veterinary Referral Associates (https://www.vravet.com/site/blog/2022/03/31/which-dog-breeds-are-prone-to-developing-cancer))
+Know Your Pet's Breed: Different dog and cat breeds can be prone to specific diseases, including cancer. Let’s look into the most suspectable breeds to cancer in dogs [Veterinary Referral Associates](https://www.vravet.com/site/blog/2022/03/31/which-dog-breeds-are-prone-to-developing-cancer):
 
 + Golden Retrievers: Face a higher risk of cancer, particularly aggressive types like lymphoma and hemangiosarcoma (cancer of the blood vessels). 
 + German Shepherds: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
