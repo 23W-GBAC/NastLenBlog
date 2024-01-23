@@ -3,6 +3,9 @@ Did you know? **The average fox weighs 14 pounds.**
 <hr>
 <h2>As we already discussed earlier, there are several different possibilities for developing cancer in animals. Why some creatures of the same breed get cancer while others don’t is still a big question. Nevertheless, we should look at some measures which can be helpful to try to stop cancer forever.</h2>
 
+<img width="150" alt="gifka" src="https://media.giphy.com/media/1Ag2YvE1NONrV7e07L/giphy.gif">
+
+
 If we are responsible for those we have tamed, it’s in our hands to become sure what options are available to protect our animals from possible oncological diseases and help them live a long and happy life with us. When we refer to the [article by “Morris Animal Foundation”](https://www.morrisanimalfoundation.org/article/tips-keep-your-pet-healthy-and-actions-you-can-take-stop-cancer-furever#:~:text=Avoid%20long%2Dterm%20exposure%20to,it%20is%20strongest%2C%20around%20midday.), it will suggest us several essential tips:
 
 1. **Avoid Secondhand Smoke**: It’s vital to keep your home a smoke-free zone since the evidence shows that there’s a higher probability of developing cancer in animals who are exposed to environmental tobacco.
