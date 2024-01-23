@@ -15,7 +15,7 @@ If we are responsible for those we have tamed, it’s in our hands to become sur
 Know Your Pet's Breed: Different dog and cat breeds can be prone to specific diseases, including cancer. Let’s look into the most suspectable breeds to cancer in dogs [Veterinary Referral Associates](https://www.vravet.com/site/blog/2022/03/31/which-dog-breeds-are-prone-to-developing-cancer):
 
 + *Golden Retrievers*: <img width="150" alt="gifka" src="https://media.giphy.com/media/sjmetO8yUKb4c/giphy.gif">Face a higher risk of cancer, particularly aggressive types like lymphoma and hemangiosarcoma (cancer of the blood vessels). 
-+ *German Shepherds*<img width="30" alt="gifka" src="https://media.giphy.com/media/hpRhtwCmOolbMEgoQk/giphy.gif">: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
++ *German Shepherds*<img width="70" alt="gifka" src="https://media.giphy.com/media/hpRhtwCmOolbMEgoQk/giphy.gif">: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
 
 + *Beagles*: are prone to recurrent urinary tract infections and have an increased risk of developing bladder cancer, especially if exposed frequently to lawn chemicals like pesticides and herbicides.
 
