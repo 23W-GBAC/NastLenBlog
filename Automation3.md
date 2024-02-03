@@ -29,6 +29,24 @@
 - Calls the generate_random_animal_fact() function.
 - Prints the randomly selected animal fact to the console.
 
+
+**Advantages**:
+
+- The script fetches animal facts from a website, ensuring that your blog always has fresh and engaging content. This enhances reader interest and provides a continuously evolving experience.
+
+- The script automates the process of retrieving facts, saving you time and effort that would be required to manually search for and update facts in each blog post.
+
+- The use of random.choice() ensures that the facts inserted into your posts are diverse, preventing repetitive or monotonous content.
+
+- The script checks for the success of the HTTP request and gracefully handles cases where the retrieval of facts fails.
+
+
+**Disadvantages**:
+
+- The script relies on the external website for content. If the website structure changes or becomes unavailable, the script might fail.
+
+- Since the facts are fetched from an external source, you have limited control over the specific facts that are retrieved. This might result in occasional irrelevant or less contextually fitting content.
+
 <hr>
 
 Another my .py skript **file [replace_placeholders.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/replace_placeholders.py)** seamlessly replaces designated placeholders in my blog posts with dynamically generated facts.
