@@ -37,7 +37,9 @@ There have been at least three solutions of how we can implement my **Auto-Gener
 **Cons**:
 - Still involves manual input.
 - Limited to the facts you are aware of or find during the writing process.
+
 <hr>
+
 The [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py) script retrieves facts from the chosen website.
 
 But at the end I decided to choose my own strategy and develop 2 essential Python Scripts for my Automation Project. Especally some articles written on "BuiltIn" helped me to figure out how to manage ordered and unordered lists in Python: 
