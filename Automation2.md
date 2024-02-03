@@ -2,7 +2,46 @@
 
 The next step for me was to start looking for some educational sourses. I found a rich source of facts at [emdonenilodge.com](https://www.emdonenilodge.com/50-best-fun-random-facts-animals/) and crafted two Python scripts to address these goals.
 
-The [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py) script retrieves facts from the chosen website.
+
+There have been at least three solutions of how we can implement my **Auto-Generator of Facts about Animals**:
+
+### 1. Static Fact Database:
+
+**Description**: Creating a local database or spreadsheet of animal facts to be referenced and manually inserted.
+**Pros**:
+- Reduced need for online fetching in real-time.
+- Easier organization and management of facts.
+**Cons**:
+- Limited to the facts in the database.
+- Still requires manual effort for insertion.
+
+### 2. External API Integration:
+
+**Description**: Exploring the availability of APIs that provide random animal facts and integrating them into your blog.
+**Pros**:
+- Potential for a diverse range of facts.
+- Automation through API calls.
+**Cons**:
+- Dependency on third-party APIs.
+- May require API key management and potential costs.
+
+### 3. Interactive User Input:
+
+**Description**: Implementing a system where you manually input facts during the writing process but with a user interface or prompts to assist.
+**Pros**:
+- Retains control over the facts.
+- Adds an interactive element to the writing process.
+**Cons**:
+- Still involves manual input.
+- Limited to the facts you are aware of or find during the writing process.
+<hr>
+The **[generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py)** script retrieves facts from the chosen website.
+
+But at the end I decided to choose my own strategy and develop 2 essential Python Scripts for my Automation Project. Especally some articles written on "BuiltIn" helped me to figure out how to manage ordered and unordered lists in Python: 
+
+<p float="left"> 
+  <img src="images_of_animals/Screenshot.png" alt="Alt Text" width="300" align="right">
+</p>
 
 ### Some Commands and Functionality for [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py)
 
@@ -22,6 +61,7 @@ The [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/bl
 - Calls the generate_random_animal_fact() function.
 - Prints the randomly selected animal fact to the console.
 
+<hr>
 
 Another my .py skript file [replace_placeholders.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/replace_placeholders.py) seamlessly replaces designated placeholders in my blog posts with dynamically generated facts.
 
