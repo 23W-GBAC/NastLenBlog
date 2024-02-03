@@ -8,6 +8,7 @@ There have been at least three solutions of how we can implement my **Auto-Gener
 ### 1. Static Fact Database:
 
 **Description**: Creating a local database or spreadsheet of animal facts to be referenced and manually inserted.
+
 **Pros**:
 - Reduced need for online fetching in real-time.
 - Easier organization and management of facts.
@@ -18,6 +19,7 @@ There have been at least three solutions of how we can implement my **Auto-Gener
 ### 2. External API Integration:
 
 **Description**: Exploring the availability of APIs that provide random animal facts and integrating them into your blog.
+
 **Pros**:
 - Potential for a diverse range of facts.
 - Automation through API calls.
@@ -28,6 +30,7 @@ There have been at least three solutions of how we can implement my **Auto-Gener
 ### 3. Interactive User Input:
 
 **Description**: Implementing a system where you manually input facts during the writing process but with a user interface or prompts to assist.
+
 **Pros**:
 - Retains control over the facts.
 - Adds an interactive element to the writing process.
@@ -35,7 +38,7 @@ There have been at least three solutions of how we can implement my **Auto-Gener
 - Still involves manual input.
 - Limited to the facts you are aware of or find during the writing process.
 <hr>
-The **[generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py)** script retrieves facts from the chosen website.
+The [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py) script retrieves facts from the chosen website.
 
 But at the end I decided to choose my own strategy and develop 2 essential Python Scripts for my Automation Project. Especally some articles written on "BuiltIn" helped me to figure out how to manage ordered and unordered lists in Python: 
 
@@ -43,7 +46,7 @@ But at the end I decided to choose my own strategy and develop 2 essential Pytho
   <img src="images_of_animals/Screenshot.png" alt="Alt Text" width="300" align="right">
 </p>
 
-### Some Commands and Functionality for [generate_facts_about_animals.py](https://github.com/23W-GBAC/NastLenBlog/blob/main/generate_facts_about_animals.py)
+### Some Commands and Functionality for generate_facts_about_animals.py
 
 #### Libraries Imported:
 
