@@ -23,6 +23,6 @@ Therefore, writing a script in Python and applying my knowledge was a manageable
 
 Automating the creation of animal facts not only simplified the content creation process, but also added a dynamic element to each post. The ability to provide fresh and varied facts for each article increased reader engagement, creating a sense of curiosity and excitement.
 
-In conclusion, the problem and context of automation in my blog is rooted in the desire to supplement educational content with fun facts about animals. The problems of manual fact-finding were solved by using Python scripts, using web scraping techniques, and "Inspect Element" capabilities. The result is an effective autogenerator that not only simplifies the content creation process, but also enriches the reader's experience with many fascinating facts about animals. Join me in the next post where I will share the solutions explored and the evolution of this automation path.
+**In conclusion**, the problem and context of automation in my blog is rooted in the desire to supplement educational content with fun facts about animals. The problems of manual fact-finding were solved by using Python scripts, using web scraping techniques, and "Inspect Element" capabilities. The result is an effective autogenerator that not only simplifies the content creation process, but also enriches the reader's experience with many fascinating facts about animals. Join me in the next post where I will share the solutions explored and the evolution of this automation path.
 
 
