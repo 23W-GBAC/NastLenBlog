@@ -4,6 +4,13 @@
 <hr>
 We know that it might be rather time-consuming to manually search for new facts that we want to provide in our articles. Imagine having to manually sift through numerous websites, articles, and resources to find the most interesting and relevant information for each article you write. Moreover, using a manual search increases the likelihood of discovering the same facts over and over again. Such repetition not only reduces the novelty of the content, but can also lead to a lack of variety in the facts presented, potentially turning off the audience. So what if we will try to kill two birds with one stone: implement the solution which would not only save time but also represent the educational value of the overall blog? 
  
+ ### For this I set the next objectives
+
+- [x] Find a suitable website containing facts about animals
+- [x] Read the necessary data from this site
+- [x] Organize the facts in the form of an unordered list
+- [x] Insert one random fact into each post (starting from the second one)
+
 There were several challenges I faced with. I have been trying to figure out for a long time how can we extract one specific fact from the website and integrate it in one particular post. For this task I read some articles about managing the ordered/unordered lists and the opportunities of web scraping with the help of the great tool called “Inspect Element”. This exploration was especially crucial in developing a strategy to fetch relevant data from a chosen website. Leveraging my existing coding skills, I crafted the generate_facts_about_animals.py script to retrieve facts from a reliable source, ensuring accuracy and reliability. Before I had some experience of working with HTML, CSS, and low-level languages. Despite this, it was a more nuanced approach. 
 
 **Why Python?**
