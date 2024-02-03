@@ -2,7 +2,11 @@
 
 #### I’ve always been fascinating by animals, and as I began writing my first about human interaction with animals [*human interaction with animals*](https://github.com/23W-GBAC/NastLenBlog/blob/main/First_Post.md), I realised that there is a good opportunity to improve my educational blog by adding some entertaining and interesting facts about creatures. This thought sparked the idea of creating an auto-generator of intriguing facts about animals.
 <hr>
-We know that it might be rather time-consuming to manually search for new facts that we want to provide in our articles. Imagine having to manually sift through numerous websites, articles, and resources to find the most interesting and relevant information for each article you write. Moreover, using a manual search increases the likelihood of discovering the same facts over and over again. Such repetition not only reduces the novelty of the content, but can also lead to a lack of variety in the facts presented, potentially turning off the audience. So what if we will try to kill two birds with one stone: implement the solution which would not only save time but also represent the educational value of the overall blog? 
+We know that it might be rather time-consuming to manually search for new facts that we want to provide in our articles. Imagine having to manually sift through numerous websites, articles, and resources to find the most interesting and relevant information for each article you write. Moreover, using a manual search increases the likelihood of discovering the same facts over and over again. Such repetition not only reduces the novelty of the content, but can also lead to a lack of variety in the facts presented, potentially turning off the audience.In light of these challenges, the need for a more efficient and streamlined approach becomes clear. The decision to start down the automation path is driven by a desire to overcome these obstacles while ensuring that we continually provide fresh, diverse, and accurate facts about animals without compromising the quality of the blog's educational content. 
+
+<hr>
+
+So what if we will try to kill two birds with one stone: implement the solution which would not only save time but also represent the educational value of the overall blog? 
  
  ### For this I set the next objectives
 
