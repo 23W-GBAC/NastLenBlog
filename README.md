@@ -1,5 +1,5 @@
 <div class="home">
-  <h1>The Anastasiia Blog: "Paws and Claws - Everything about animals</h1>
+  <h1>The Anastasiia Blog: "Paws and Claws - Everything about animals"</h1>
   <img width="300" alt="gifka" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY3a21vNHYxamY1OWRsejNrZG9yMzhmOHplMHZyZmJoN2Exc2htciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif">
   
   <section class="general-info">
