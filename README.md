@@ -22,10 +22,13 @@
   
   <section class="Automation">
     <h2>Automation Part</h2>
-    <a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 1: Problem and Context of the Automation</a>
-    <a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 2: Possible Solutions and errand attempts to develop a solution</a>
-    <a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 3: Final Solution</a>
-    <a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 4: Cost-Benefit-Analysis</a>
+    <ul>
+      <li><a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 1: Problem and Context of the Automation</a></li>
+      <li><a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 2: Possible Solutions and errand attempts to develop a solution</a></li>
+      <li><a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 3: Final Solution</a></li>
+      <li><a href="https://github.com/23W-GBAC/NastLenBlog/blob/main/Automation.md">Blog Post 4: Cost-Benefit-Analysis</a></li>
+    </ul>
+    
   </section>
 </div>
 
