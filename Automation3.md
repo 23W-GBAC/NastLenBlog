@@ -92,5 +92,5 @@ This script is designed to be run after creating your blog posts, ensuring that 
 As a result, we can see the provided entertaining fact in each Post:
 
 <p float="left"> 
-  <img src="images_of_animals/Screenshot2.png" alt="Alt Text" width="300" align="right">
+  <img src="images_of_animals/Screenshot2.png" alt="Alt Text" width="400" align="left">
 </p>
