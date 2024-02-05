@@ -15,7 +15,10 @@ If we are responsible for those we have tamed, it’s in our hands to become sur
 Know Your Pet's Breed: Different dog and cat breeds can be prone to specific diseases, including cancer. Let’s look into the most suspectable breeds to cancer in dogs [Veterinary Referral Associates](https://www.vravet.com/site/blog/2022/03/31/which-dog-breeds-are-prone-to-developing-cancer):
 
 + *Golden Retrievers* <img width="150" alt="gifka" src="https://media.giphy.com/media/sjmetO8yUKb4c/giphy.gif">: Face a higher risk of cancer, particularly aggressive types like lymphoma and hemangiosarcoma (cancer of the blood vessels). 
+
 + *German Shepherds* <img width="70" alt="gifka" src="https://media.giphy.com/media/hpRhtwCmOolbMEgoQk/giphy.gif">: admired by dog enthusiasts and trainers for their intelligence and loyalty, unfortunately, have a heightened susceptibility to cancer, particularly hemangiosarcoma (cancer of the blood vessels).
+
++ *Malinois* <img src="images_of_animals/Malinois.jpeg" img width="70" alt="gifka">:  renowned for their intelligence and loyalty, stand out as versatile and agile dogs, often favored for police and military roles. Admired by enthusiasts and trainers alike, this breed's exceptional trainability is a key characteristic. However, Malinois may have a heightened susceptibility to certain health concerns, including [mention specific health issues, if any]. It is crucial for owners to prioritize regular veterinary check-ups, a balanced diet, and ample exercise to ensure the overall well-being of these remarkable dogs. Remember, a healthy and happy Malinois is not only a loyal companion but also a thriving member of your family.
 
 + *Beagles* <img src="images_of_animals/AdobeStock_219003378-1024x683.jpg" alt="Alt Text" width="100">:  prone to recurrent urinary tract infections and have an increased risk of developing bladder cancer, especially if exposed frequently to lawn chemicals like pesticides and herbicides.
 
