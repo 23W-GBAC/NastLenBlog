@@ -36,16 +36,16 @@
 
 - The script automates the process of retrieving facts, saving you time and effort that would be required to manually search for and update facts in each blog post.
 
-- The use of random.choice() ensures that the facts inserted into your posts are diverse, preventing repetitive or monotonous content.
+- The use of **random.choice()** ensures that the facts inserted into your posts are diverse, preventing repetitive or monotonous content.
 
 - The script checks for the success of the HTTP request and gracefully handles cases where the retrieval of facts fails.
-
 
 **Disadvantages**:
 
 - The script relies on the external website for content. If the website structure changes or becomes unavailable, the script might fail.
 
 - Since the facts are fetched from an external source, you have limited control over the specific facts that are retrieved. This might result in occasional irrelevant or less contextually fitting content.
+
 
 <hr>
 
@@ -71,3 +71,26 @@ Searches for a specific placeholder (**"Did you know? **"**) and replaces it wit
 <hr>
 Additional Notes:
 This script is designed to be run after creating your blog posts, ensuring that the placeholders are correctly positioned in your Markdown files.
+
+**Advantages**:
+
+- The script seamlessly integrates dynamically generated facts into your blog posts, maintaining a cohesive flow of content.
+- By using placeholders like **"Did you know? **"**, you can easily customize the placement of the facts in your posts, ensuring they fit naturally within the context.
+- The script ensures a consistent format for displaying facts across multiple blog posts, contributing to a unified and professional appearance.
+
+**Disadvantages**:
+
+- The script directly modifies the content of existing files. If not used carefully, it could overwrite changes made manually to the blog posts.
+
+- The script assumes a specific placeholder structure. If you want to change the format or location of facts in your posts, you may need to modify the script accordingly.
+
+- The script prints information to the console, which might be unnecessary or confusing for someone not familiar with the script's inner workings.
+
+
+<hr>
+
+As a result, we can see the provided entertaining fact in each Post:
+
+<p float="left"> 
+  <img src="images_of_animals/Screenshot2.png" alt="Alt Text" width="300" align="right">
+</p>
